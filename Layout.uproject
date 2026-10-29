@@ -20,31 +20,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "RigLogic",
-			"Enabled": true
-		},
-		{
-			"Name": "LiveLink",
-			"Enabled": true
-		},
-		{
-			"Name": "LiveLinkControlRig",
-			"Enabled": true
-		},
-		{
 			"Name": "PoseSearch",
 			"Enabled": true
 		},
 		{
-			"Name": "AnimationLocomotionLibrary",
-			"Enabled": true
-		},
-		{
 			"Name": "MotionWarping",
-			"Enabled": true
-		},
-		{
-			"Name": "HairStrands",
 			"Enabled": true
 		},
 		{
@@ -68,19 +48,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Locomotor",
-			"Enabled": true
-		},
-		{
 			"Name": "CurveExpression",
-			"Enabled": true
-		},
-		{
-			"Name": "GameplayInteractions",
-			"Enabled": true
-		},
-		{
-			"Name": "ThreepeatAnimTools",
 			"Enabled": true
 		}
 	]
